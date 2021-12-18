@@ -1,6 +1,6 @@
 - <img style="width:25px; padding:10px;" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> Hi, I’m @pankazpanchal
 
-- A passionate self-taught full stack web developer. working on technologies based on JavaScript. comfortable with  Angular.js, Node.js, Express.js, MongoDB - Mongoose.
+- A passionate self-taught full stack web developer. comfortable with technologies based on JavaScript- Angular.js, Node.js, Express.js, MongoDB - Mongoose.
 - i take great care in the experience, architecture, and code quality of the things I build.
 - i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
